@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/c089/ci-as-if-you-meant-it/issues"
   },
-  "homepage": "https://github.com/c089/ci-as-if-you-meant-it#readme"
+  "homepage": "https://github.com/c089/ci-as-if-you-meant-it#readme",
+  "devDependencies": {
+    "jest": "^23.6.0"
+  }
 }
