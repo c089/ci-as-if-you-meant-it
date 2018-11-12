@@ -1,0 +1,19 @@
+{
+  "name": "ci-as-if-you-meant-it",
+  "version": "1.0.0",
+  "description": "Example of baby steps continuous integration",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/c089/ci-as-if-you-meant-it.git"
+  },
+  "author": "Christoph Neuroth <christoph.neuroth@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/c089/ci-as-if-you-meant-it/issues"
+  },
+  "homepage": "https://github.com/c089/ci-as-if-you-meant-it#readme"
+}
